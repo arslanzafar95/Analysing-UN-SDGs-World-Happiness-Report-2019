@@ -13,6 +13,5 @@ put all collected information in a dataframe. Then create a new dataframe with a
 We plot the distribution of happiness score per country. Find the top 10 happiest countries.What is the average of happiness. What are the countries below the median. Plot the correlation between different variables and give an interpretation. for each continent, give the happiest country.
 
 Links:
-• https://en.wikipedia.org/wiki/World_Happiness_Report#2019_
-report
+• https://en.wikipedia.org/wiki/World_Happiness_Report#2019_report
 • https://simple.wikipedia.org/wiki/List_of_countries_by_continents
