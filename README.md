@@ -1,4 +1,4 @@
-# Analysing-World-Happiness-Report
+# Analysing World Happiness Report 2019
 The World Happiness Report is an annual publication of the United Nations Sustainable Development Solutions Network. It contains articles, and rankings of national happiness based on respondent ratings of their own lives,
 which the report also correlates with various life factors. As of March 2020, Finland was ranked the happiest country in the world three times in a row.
 
